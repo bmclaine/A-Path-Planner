@@ -1,0 +1,2 @@
+This was a 2 week project done in my AI class. I was given a graphical user interface to monitor my algorithm's performance and while being
+asked to write the algorithm from scratch given a bare bones project with some empty functions.
